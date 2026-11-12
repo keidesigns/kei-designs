@@ -1,0 +1,281 @@
+{
+  "brand": "Kei Designs",
+  "identity": "Keira Haugh — Graphic Designer",
+  "headline": "Ideas into",
+  "headlineEmphasis": "form.",
+  "focus": "Identity, typography and digital design",
+  "intro": "I’m Keira Haugh, a graphic design and communications student. My work spans visual identity, typography and digital design.",
+  "about": "I’m a graphic design and communications student with a particular interest in how people find their way through apps and websites. My projects range from building a typeface out of repeating lines to designing a walking app with a group of other students.",
+  "opportunities": "I’d love to hear about graphic design projects, digital design opportunities and collaborations.",
+  "skills": "Adobe Creative Cloud, Figma and Canva",
+  "interests": "Reading, writing, music and gaming are a big part of where I find inspiration. I’m also drawn to thoughtful UX and UI design, especially the choices that make an app or website feel intuitive to use.",
+  "email": "keira.haugh.work@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/keira-haugh",
+  "behance": "",
+  "instagram": "",
+  "cv": "",
+  "portrait": "",
+  "portraitAlt": "Portrait of Keira Haugh",
+  "siteUrl": "https://keidesigns.github.io/kei-designs/",
+  "projects": [
+    {
+      "slug": "hawksans",
+      "title": "Hawksans Typeface",
+      "category": "Type",
+      "discipline": "Type design",
+      "description": "An elongated modular display face, explored through a printed specimen.",
+      "type": "College project",
+      "brief": "Explore how far a sans serif letterform can stretch while remaining readable. I developed Hawksans as a modular display face for large-scale use.",
+      "role": "Designer (student)",
+      "process": "I used grids and repeated strokes to construct the letters, adjusting their proportions and spacing to find a rhythm across the alphabet.",
+      "decisions": "Long vertical strokes create the optical effect. In the specimen, a repeated pattern on black faces two isolated letters on burgundy, so the reader can see both the texture and the construction.",
+      "outcome": "Making the specimen deepened my understanding of type anatomy and optical balance, especially how small changes in spacing affect a distorted letter.",
+      "image": "assets/projects/hawksans.webp",
+      "alt": "Black, white and burgundy type specimen featuring narrow modular letterforms.",
+      "gallery": [
+        {
+          "image": "assets/projects/hawksans-glyphs.webp",
+          "alt": "Flat specimen showing repeated linear glyphs beside two enlarged letters.",
+          "caption": "Isolating two letters reveals the narrow gaps between their strokes."
+        },
+        {
+          "image": "assets/projects/hawksans-cover.webp",
+          "alt": "A burgundy specimen cover with white linear type on an ochre chair.",
+          "caption": "The cover uses the letterforms at display scale."
+        },
+        {
+          "image": "assets/projects/hawksans-spread.webp",
+          "alt": "Open printed spread about modular typography.",
+          "caption": "A quieter text spread gives the reader a break from the dense display lettering."
+        }
+      ]
+    },
+    {
+      "slug": "pilcrow",
+      "title": "Pilcrow",
+      "category": "Digital",
+      "discipline": "Web design",
+      "description": "A Figma website for a fictional creative collective to share artists’ work.",
+      "type": "College project",
+      "brief": "Design a website for Pilcrow, a fictional creative collective, to showcase artists’ work and highlight member contributions.",
+      "role": "Designer (student)",
+      "process": "I designed the collective’s website in Figma, organising projects, interviews and member features into repeatable layouts.",
+      "decisions": "A recurring wavy line connects the pages. Muted surfaces leave room for the artists’ colours, and a modular grid carries the content from desktop to mobile.",
+      "outcome": "The final designs show how a visitor moves from the collective’s homepage to individual projects and interviews.",
+      "image": "assets/projects/pilcrow.webp",
+      "alt": "Two Pilcrow website screens suspended against a pale mint background.",
+      "gallery": [
+        {
+          "image": "assets/projects/pilcrow-mobile.webp",
+          "alt": "Two phones showing Pilcrow’s homepage and interview layout.",
+          "caption": "The modular project grid becomes a compact mobile layout. The wavy border carries through to the interview."
+        },
+        {
+          "image": "assets/projects/pilcrow-screens.webp",
+          "alt": "A series of Pilcrow page designs showing artwork, features and member profiles."
+        }
+      ]
+    },
+    {
+      "slug": "pause-the-noise",
+      "title": "Pause The Noise",
+      "category": "Campaign",
+      "discipline": "Campaign design",
+      "description": "A poster campaign and digital layouts built around the message “Break the cycle”.",
+      "type": "College project",
+      "brief": "For a citizen design brief, I chose headline fatigue and doomscrolling. The campaign invites people to take a break from the stream of news on their phones.",
+      "role": "Designer (student)",
+      "process": "I developed contrasting poster versions and designed a companion website mock-up in Figma. A QR code on each poster connects the printed campaign to the digital resource.",
+      "decisions": "Oversized words sit behind the phone users’ silhouettes. Pink speech panels interrupt the monochrome composition, drawing attention to the campaign’s message.",
+      "outcome": "The final series pairs street posters with a digital guide to taking a break from scrolling.",
+      "image": "assets/projects/pause-the-noise.webp",
+      "alt": "Two contrasting Pause The Noise posters mounted in an ivy-covered wall.",
+      "gallery": [
+        {
+          "image": "assets/projects/pause-the-noise-detail.webp",
+          "alt": "Detail of the light poster with silhouette and pink speech panels.",
+          "caption": "The silhouette cuts across the headline, while the pink panels remain distinct from both."
+        },
+        {
+          "image": "assets/projects/pause-street.webp",
+          "alt": "Four alternating light and dark campaign posters on a street frontage.",
+          "caption": "Reversing the tones gives the posters a rhythm when displayed in sequence."
+        },
+        {
+          "image": "assets/projects/pause-screens.webp",
+          "alt": "Three campaign page layouts combining photography, text and green accents."
+        }
+      ]
+    },
+    {
+      "slug": "wandr",
+      "title": "Wandr",
+      "category": "Digital",
+      "discipline": "UX/UI design",
+      "description": "A group project imagining Limerick’s cultural life as a walkable digital archive.",
+      "brief": "As a group, we imagined how people in 2050 might explore Limerick’s street art, fashion and independent businesses as they existed in 2026.",
+      "process": "We gathered different perspectives on the city and translated them into mapped walks, notifications and augmented reality overlays.",
+      "decisions": "Bold headings echo street signage. A pale map keeps the streets legible, while purple identifies routes and controls. Notifications let walkers look up from the screen.",
+      "outcome": "The concept follows a walker from choosing a route through to a summary of the places they discovered.",
+      "image": "assets/projects/wandr.webp",
+      "alt": "Wandr route summary and Limerick street art walk displayed on two phones.",
+      "gallery": [
+        {
+          "image": "assets/projects/wandr-system.webp",
+          "alt": "Type, purple colour swatches and navigation components from the Wandr design system.",
+          "caption": "A shared set of type styles and components brings the different walking screens together."
+        },
+        {
+          "image": "assets/projects/wandr-welcome.webp",
+          "alt": "Opening map screen asking how the visitor would like to walk.",
+          "caption": "The map stays visible behind the first choice."
+        },
+        {
+          "image": "assets/projects/wandr-map.webp",
+          "alt": "Wandr screen offering a map view.",
+          "caption": "One option keeps navigation in the map."
+        },
+        {
+          "image": "assets/projects/wandr-ar.webp",
+          "alt": "Wandr screen offering an augmented reality view.",
+          "caption": "A matching layout presents the AR option."
+        },
+        {
+          "image": "assets/projects/wandr-notifications.webp",
+          "alt": "Two lock screens showing Wandr arrival and direction notifications.",
+          "caption": "Short notifications deliver directions while the phone is locked."
+        }
+      ],
+      "type": "College project",
+      "role": "Designer (student)"
+    },
+    {
+      "slug": "between-the-lines",
+      "title": "Between The Lines",
+      "category": "Print",
+      "discipline": "Poster design",
+      "description": "Layered handwriting and distorted letterforms meet in a monochrome street poster.",
+      "type": "College project",
+      "brief": "Create a typographic response to Between Us — Contemporary Irish Fiction, a Cúirt event featuring Sally Rooney, Donal Ryan and Megan Nolan. I focused on feelings that remain unspoken.",
+      "role": "Designer (student)",
+      "process": "I used fragments of text about unanswered questions and being alone to guide the line breaks, spacing and disrupted alignments.",
+      "decisions": "Uneven spacing makes the letters seem to move forward and pull back. A single orange mark punctuates the muted composition, while clear event lettering gives the reader a point of entry.",
+      "outcome": "The visual response extends from street posters to mobile event graphics.",
+      "image": "assets/projects/between-the-lines.webp",
+      "alt": "A grey framed street poster with warped white lettering and an orange dot.",
+      "gallery": [
+        {
+          "image": "assets/projects/between-the-lines-detail.webp",
+          "alt": "Close-up of disrupted white type, handwriting and an orange dot.",
+          "caption": "The interrupted letterforms echo thoughts that never quite become speech."
+        },
+        {
+          "image": "assets/projects/between-street.webp",
+          "alt": "The Between Us poster shown on two faces of a street display.",
+          "caption": "The diagonal event title sits below the experimental lettering."
+        },
+        {
+          "image": "assets/projects/between-mobile.webp",
+          "alt": "Two mobile graphics for Between Us and the Cúirt festival.",
+          "caption": "The handwritten texture connects the event poster to the mobile graphics."
+        }
+      ]
+    },
+    {
+      "slug": "perys-bingo",
+      "title": "Pery’s Bingo",
+      "category": "Campaign",
+      "discipline": "Campaign & social design",
+      "description": "Event posters, social campaigns and a weekly schedule from my placement at Parnell Plaza.",
+      "brief": "During my six-week placement at Parnell Plaza in Limerick, I designed graphics for Pery’s Bingo events in the hall and online. Each piece needed to communicate dates, times and offers at a glance.",
+      "process": "I learned Canva alongside my existing Adobe skills and used Facebook and website analytics to understand what regular players responded to. I proposed bringing the weekly events together on one poster.",
+      "decisions": "Each day has a name, colour and calendar icon. For seasonal campaigns, I paired a simple announcement with a separate information graphic, keeping the type, illustration and palette consistent across both.",
+      "outcome": "The weekly schedule was used in the hall and on social media. It became the standard format for communicating the venue’s 2026 weekly programme.",
+      "image": "assets/projects/perys-week.webp",
+      "alt": "Pery’s Bingo weekly schedule with five colour-coded event panels and calendar icons.",
+      "gallery": [
+        {
+          "image": "assets/projects/perys-easter.webp",
+          "alt": "Easter Monday announcement featuring an oversized date and purple egg pattern.",
+          "caption": "The date and headline prize lead the Easter announcement."
+        },
+        {
+          "image": "assets/projects/perys-easter-details.webp",
+          "alt": "Companion Easter graphic with a column layout for the prize breakdown.",
+          "caption": "The companion post repeats the colour palette and gives the detailed information its own space."
+        },
+        {
+          "image": "assets/projects/perys-may.webp",
+          "alt": "May bank holiday announcement with pastel flowers and bunting.",
+          "caption": "Pastel florals distinguish the May campaign from Easter."
+        },
+        {
+          "image": "assets/projects/perys-may-details.webp",
+          "alt": "Bank holiday information graphic with a three-part prize table.",
+          "caption": "A consistent column structure organises the Early Book, Main Book and Flyer."
+        },
+        {
+          "image": "assets/projects/perys-flyer.webp",
+          "alt": "Blue Easter flyer with a large white headline, illustrated grass and rabbit ears.",
+          "caption": "Coloured panels hold the practical details at the foot of the poster."
+        },
+        {
+          "image": "assets/projects/perys-march.webp",
+          "alt": "Green event graphic with a prominent yellow prize figure.",
+          "caption": "A large central figure establishes the first read before the package information."
+        }
+      ],
+      "type": "Placement project",
+      "role": "Designer (student)"
+    },
+    {
+      "slug": "18-grams",
+      "title": "18 Grams",
+      "category": "Identity",
+      "discipline": "Brand identity",
+      "description": "An artisan coffee identity built around the precision of a single measure.",
+      "type": "College project",
+      "brief": "The brief was to create a brand identity for an artisan coffee shop. The name 18 Grams connects the idea of precision with speciality coffee.",
+      "role": "Designer (student)",
+      "process": "[PROCESS AND SKETCHES]",
+      "decisions": "The fine-line coffee tool sits alongside the wordmark on an apron. The menu carries the same restrained lettering onto a warm, pale surface.",
+      "outcome": "[PROJECT OUTCOME]",
+      "image": "assets/projects/18-grams.webp",
+      "alt": "The 18 Grams wordmark and portafilter symbol printed on a taupe apron.",
+      "gallery": [
+        {
+          "image": "assets/projects/18-grams-detail.webp",
+          "alt": "Detail of the fine-line portafilter and 18 Grams lettering on the apron.",
+          "caption": "The handle of the portafilter follows the horizontal line of the wordmark."
+        },
+        {
+          "image": "assets/projects/18-grams-menu.webp",
+          "alt": "An 18 Grams menu mounted on a wooden board."
+        }
+      ]
+    },
+    {
+      "slug": "fleeting-moments",
+      "title": "Fleeting Moments",
+      "category": "Print",
+      "discipline": "Poster design",
+      "description": "A photographic mosaic and a figure on a bench, framed in the light of a bus shelter.",
+      "type": "College project",
+      "brief": "[PROJECT BRIEF]",
+      "role": "Designer (student)",
+      "process": "[PROCESS AND SKETCHES]",
+      "decisions": "A shift from amber to deep brown anchors the figure at the bottom of the image. Pale italic lettering crosses the mosaic in two staggered lines.",
+      "outcome": "[PROJECT OUTCOME]",
+      "image": "assets/projects/fleeting-moments.webp",
+      "alt": "A golden Fleeting Moments poster in a sunlit outdoor display.",
+      "gallery": [
+        {
+          "image": "assets/projects/fleeting-moments-detail.webp",
+          "alt": "Detail of small image tiles beneath the Fleeting Moments title.",
+          "caption": "Up close, the amber field resolves into individual images."
+        }
+      ]
+    }
+  ],
+  "featuredProject": "hawksans"
+}
